@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="8511d018-a468-44a0-b534-db15d23e744d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/HouseBlend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/HouseBlend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NYSpicyPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NYSpicyPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NewYorkStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NewYorkStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laborator4/decorator/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/decorator/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laborator4/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/NYSpicyPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/NYSpicyPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/NewYorkStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/NewYorkStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Laborator4.factory.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Laborator2.Main" />
       <module name="Laboratoare Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Laborator4.factory.*" />
+          <option name="PATTERN" value="Laborator2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Laborator2.Main" />
+      <option name="MAIN_CLASS_NAME" value="Laborator4.factory.Main" />
       <module name="Laboratoare Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Laborator2.*" />
+          <option name="PATTERN" value="Laborator4.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,39 +149,47 @@
       <option name="project" value="LOCAL" />
       <updated>1589194766206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Laboratory 4 exercises in laboratory">
+      <created>1589196528699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589196528699</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commited the changes in code challenge 2 in lab.2 and lab3" />
     <MESSAGE value="Added some other classes-exercise in laboratory" />
     <MESSAGE value="Added StaticSingleton class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added StaticSingleton class" />
+    <MESSAGE value="Laboratory 4 exercises in laboratory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratory 4 exercises in laboratory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589194089960">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1589194089960" />
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589194764719">
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589196526726">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589194764719" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589196485957">
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589196526726" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589199295752">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589196485957" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589196485956">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589199295752" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589199295751">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589196485956" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589196485956">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589199295751" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589199295751">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589196485956" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589196485956">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589199295751" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589199295751">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589196485956" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589199295751" />
   </component>
 </project>

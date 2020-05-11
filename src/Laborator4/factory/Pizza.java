@@ -12,7 +12,7 @@ public abstract class Pizza {
     };
 
     public void cut(){
-        System.out.println("Cut" + name);
+        System.out.println("Cut " + name);
     };
 
     public void box(){
