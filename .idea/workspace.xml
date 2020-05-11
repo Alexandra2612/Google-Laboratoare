@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8511d018-a468-44a0-b534-db15d23e744d" name="Default Changelist" comment="" />
+    <list default="true" id="8511d018-a468-44a0-b534-db15d23e744d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,13 +74,25 @@
       <option name="presentableId" value="Default" />
       <updated>1589190619715</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commited the changes in code challenge 2 in lab.2 and lab3">
+      <created>1589193125017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589193125017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commited the changes in code challenge 2 in lab.2 and lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commited the changes in code challenge 2 in lab.2 and lab3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589193032230">
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589193123046">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589193032230" />
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589193123046" />
     <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589193035846">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
