@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8511d018-a468-44a0-b534-db15d23e744d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/HouseBlend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/HouseBlend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/decorator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NYSpicyPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NYSpicyPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NewYorkStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator4/factory/NewYorkStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laborator4/decorator/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/decorator/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laborator4/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/NYSpicyPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/NYSpicyPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/NewYorkStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/NewYorkStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laborator4/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laborator4/factory/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +29,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Laborator3.Main" />
+      <option name="MAIN_CLASS_NAME" value="Laborator5.io.Exercitiu2.Main" />
       <module name="Laboratoare Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Laborator3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Laborator4.visitor.Main" />
-      <module name="Laboratoare Google" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Laborator4.visitor.*" />
+          <option name="PATTERN" value="Laborator5.io.Exercitiu2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,6 +52,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Laborator4.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Laborator5.exception.Main" />
+      <module name="Laboratoare Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Laborator5.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Laborator5.io.Main" />
+      <module name="Laboratoare Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Laborator5.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589196528699</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added some classes">
+      <created>1589199333980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589199333981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,32 +175,41 @@
     <MESSAGE value="Added some other classes-exercise in laboratory" />
     <MESSAGE value="Added StaticSingleton class" />
     <MESSAGE value="Laboratory 4 exercises in laboratory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laboratory 4 exercises in laboratory" />
+    <MESSAGE value="Added some classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some classes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589194089960">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1589194089960" />
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589196526726">
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589199331848">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589196526726" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1589199295752">
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589199331848" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1590412849585">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589199295752" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1589199295751">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590412849585" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1590412849584">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589199295751" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1589199295751">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590412849584" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1590412849584">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589199295751" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1589199295751">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590412849584" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1590412849585">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589199295751" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590412849585" />
+    <state x="301" y="61" key="SettingsEditor" timestamp="1590411239502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590411239502" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1589199455604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1589199455604" />
   </component>
 </project>
