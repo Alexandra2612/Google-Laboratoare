@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8511d018-a468-44a0-b534-db15d23e744d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator6/ch1/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator6/ch1/EUR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator6/ch1/ExchangeDesk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator6/ch1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator6/ch1/RON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Laboratoare Google/Laborator6/ch1/USD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Laborator6/ch1/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Laborator6/ch1/EUR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Laborator6/ch1/ExchangeDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Laborator6/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Laborator6/ch1/RON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Laborator6/ch1/USD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Laborator5.io.Exercitiu2.Main" />
       <module name="Laboratoare Google" />
@@ -46,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Laborator4.decorator.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Laborator6.ch1.Main" />
       <module name="Laboratoare Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Laborator4.decorator.*" />
+          <option name="PATTERN" value="Laborator6.ch1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589199333981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab5 in class">
+      <created>1590412921542</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590412921542</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,33 +195,38 @@
     <MESSAGE value="Added StaticSingleton class" />
     <MESSAGE value="Laboratory 4 exercises in laboratory" />
     <MESSAGE value="Added some classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some classes" />
+    <MESSAGE value="Lab5 in class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab5 in class" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1590414146017">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1590414146017" />
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589194089960">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1589194089960" />
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1589199331848">
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1590412915527">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589199331848" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1590412849585">
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1590412915527" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1590415210720">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590412849585" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1590412849584">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590415210720" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1590415210720">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590412849584" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1590412849584">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590415210719" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1590415210719">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590412849584" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1590412849585">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590415210719" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1590415210720">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590412849585" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590415210720" />
     <state x="301" y="61" key="SettingsEditor" timestamp="1590411239502">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
